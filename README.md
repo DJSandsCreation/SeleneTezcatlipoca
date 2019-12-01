@@ -1,0 +1,2 @@
+# SeleneTezcatlipoca
+a small project here like a presentation Web site, not really like a mainstream Web site but something that maybe you would do at some kind of conference/event as a presentation and PowerPoint doesnt quite cut it, something custom, its very simplified but I will add graphics to it later, as I go .. I'll be using a bunch of stuff that I've learned through the animations etc, like variables, a little bit of a key frame animation transition stuff. I have used HTML, CSS., JavaScript &amp; JQuery. The page animates through sections of a landing page.
